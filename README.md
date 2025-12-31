@@ -15,19 +15,43 @@ I'm a **Data Science & Engineering student** passionate about turning complex da
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
-##  Featured Projects
 
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🌿 Meal Mate](https://github.com/sean-techie/meal-mate) | A meal planning web app that helps users organize their weekly meals. | React, CSS, API |
-| [🏠 Airbnb Clone](https://github.com/sean-techie/airbnb-clone-project) | A simple Airbnb clone project replicating listings, search & booking features. | HTML, CSS, JavaScript |
-| [💊 Transparent Health Block Chain](https://www.figma.com/design/x1dht4o1nsFyqWhDlRoxQZ/TransparentHealth-Blockchain-Wireframe?node-id=0-1&t=chOGfwz47TqL0azk-1) | Wireframes for a blockchain-based health records system, designed in Figma. | Figma, Wireframing |
+## Projects
 
-- Transparent Health Block Chain Wireframes & Slides
-Check out the wireframe slides for this project: [View Slides](https://docs.google.com/presentation/d/1ezgIJm7O9Mm88Z_BcIG7oz5GyB4TcwRReWLFH-agZbY/edit?usp=drivesdk)
+### 🎬 CineSeek – Movie Discovery Web Application
+Built a movie discovery platform using React.js and Next.js. Integrated APIs for real-time movie data, implemented search/navigation, responsive UI, and deployed to Vercel.
+
+**Links:**  
+- GitHub: [CineSeek Repo](https://github.com/sean-techie/alx-pwa-0x01-4lmq)  
+- QR Code: ![CineSeek QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/sean-techie/alx-pwa-0x01-4lmq)
+
+---
+
+### 🏠 Airbnb Clone – Full-Stack Web Application
+Developed an Airbnb-style application using React.js, Next.js, and Node.js. Implemented property listings, search functionality, responsive layouts, and reusable UI components.
+
+**Links:**  
+- GitHub: [Airbnb Clone Repo](https://github.com/sean-techie/airbnb-clone)  <!-- replace with actual repo URL -->  
+- QR Code: ![Airbnb Clone QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/sean-techie/airbnb-clone)
+
+---
+
+### 🗳️ ALX Polly – Full-Stack Polling Application
+Built a polling system using TypeScript and Node.js. Designed backend APIs to create, store, and aggregate polling data.
+
+**Links:**  
+- GitHub: [ALX Polly Repo](https://github.com/sean-techie/alx-polly)  
+- QR Code: ![ALX Polly QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/sean-techie/alx-polly)
+
+---
+
+### 🐍 Polly-API – Python Polling API
+Developed RESTful APIs using Python for poll creation and voting. Implemented data validation, structured backend logic, and optimized query handling.
+
+**Links:**  
+- GitHub: [Polly-API Repo](https://github.com/sean-techie/polly-api)  
+- QR Code: ![Polly-API QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/sean-techie/polly-api)
 
 
 
