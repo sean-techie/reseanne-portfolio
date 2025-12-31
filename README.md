@@ -17,46 +17,19 @@ I'm a **Data Science & Engineering student** passionate about turning complex da
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
-
 ## Projects
 
 ### 🎬 CineSeek – Movie Discovery Web Application
-Built a movie discovery platform using React.js and Next.js. Integrated APIs for real‑time movie data, implemented search/navigation, responsive UI, and deployed to Vercel.
+Built a movie discovery platform using React.js and Next.js. Integrated APIs for real-time movie data, implemented search/navigation, responsive UI, and deployed to Vercel.
 
-**Links:**  
-- GitHub: [CineSeek Repo](https://github.com/sean-techie/alx-pwa-0x01)  
-- QR Code:  
-  ![CineSeek QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/sean-techie/alx-pwa-0x01)
+**GitHub:** [CineSeek Repo](https://github.com/sean-techie/alx-pwa-0x01)
 
 ---
 
-### 🏠 Airbnb Clone – Full‑Stack Web Application
-Developed a full‑stack Airbnb‑style application with property listings, search functionality, and responsive UI.
+### 🏠 Airbnb Clone – Full-Stack Web Application
+Developed a full-stack Airbnb-style application with property listings, search functionality, and responsive UI.
 
-**Links:**  
-- GitHub: [Airbnb Clone Repo](https://github://github.com/sean-techie/airbnb-clone-project)  
-- QR Code:  
-  ![Airbnb Clone QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/sean-techie/airbnb-clone-project)
-
----
-
-### 🗳️ ALX Polly – Full‑Stack Polling Application
-*(Send me the exact GitHub URL and I’ll update this section.)*
-
-**Links:**  
-- GitHub: [ALX Polly Repo](#) *(placeholder until correct URL is provided)*  
-- QR Code:  
-  ![ALX Polly QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=placeholder)
-
----
-
-### 🐍 Polly‑API – Python Polling API
-*(Send me the exact GitHub URL and I’ll update this section.)*
-
-**Links:**  
-- GitHub: [Polly‑API Repo](#) *(placeholder until correct URL is provided)*  
-- QR Code:  
-  ![Polly‑API QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=placeholder)
+**GitHub:** [Airbnb Clone Repo](https://github.com/sean-techie/airbnb-clone-project)
 
 ##  A Little Fun Fact
 
