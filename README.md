@@ -9,7 +9,7 @@ I'm a **Data Science & Engineering student** passionate about turning complex da
 - Software Development
 - AI & Data Science
 
-# Tech stack
+**Tech stack**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
