@@ -1,4 +1,4 @@
-# Hi, I'm Reseanne Rampou 👋  
+# Hi, I'm Reseanne Rampou   
 **Frontend ProDev Specialist | Data Science Enthusiast | Problem Solver**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sean-techie&color=blue)
