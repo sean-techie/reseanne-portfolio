@@ -36,7 +36,8 @@ I love tackling challenging problems and creating projects that make an impact.
 ### 🎬 CineSeek – Movie Discovery Web App
 - Built with **React.js & Next.js**  
 - Integrated real-time movie APIs  
-- Responsive UI & search navigation  
+- Responsive UI & search navigation
+- https://alx-pwa-0x01-4lmq.vercel.app/
 - https://github.com/sean-techie/alx-pwa-0x01.git
 
 ### 🏠 Airbnb Clone – Full-Stack Web App
