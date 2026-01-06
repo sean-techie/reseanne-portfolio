@@ -38,11 +38,11 @@ I love tackling challenging problems and creating projects that make an impact.
 - Integrated real-time movie APIs  
 - Responsive UI & search navigation
 - https://alx-pwa-0x01-4lmq.vercel.app/
-- https://github.com/sean-techie/alx-pwa-0x01.git
+- [https://github.com/sean-techie/alx-pwa-0x01.git)
 
 ### 🏠 Airbnb Clone – Full-Stack Web App
 - Full-stack property listings with search & responsive UI  
-- [GitHub Repo](#)
+- [https://github.com/sean-techie/airbnb-clone-project.git)
 
 ---
 
